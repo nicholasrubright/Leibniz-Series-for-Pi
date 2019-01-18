@@ -4,6 +4,6 @@ This program was made as part as a practice problem from my Java course. I wante
 ## Leibniz Series for Pi
 The picture below shows the formula for the series:
 
-![Leibniz Series](9dcPQfP.png)
+![Leibniz Series](series.png)
 
 (https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80)
